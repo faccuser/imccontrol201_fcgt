@@ -1,0 +1,2 @@
+language = "java10"
+run = "javac -d . Main.java Aluno.java IMC.java Teste.java ; java Main "
