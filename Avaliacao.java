@@ -5,7 +5,7 @@ class Avaliacao {
    private double altura;
    private double indice;
    private String classificacao;
-   
+      
    
   public Avaliacao(double p, double a) {
     this.peso = p;
